@@ -1,0 +1,598 @@
+name,ingredients,instructions
+Aloo Pulao,"rice, potato, onion, cumin, green chili, salt, turmeric, oil","1. Wash and soak 1 cup of rice for 20 minutes.
+2. Peel and dice 2 potatoes.
+3. Slice 1 onion and 2 green chilies.
+4. Heat 2 tbsp oil in a pan. Add cumin seeds.
+5. Add onion and chilies. Sauté until golden.
+6. Add potatoes, turmeric, salt. Cook for 5 minutes.
+7. Add rice and 2 cups water. Mix well.
+8. Cover and cook on low heat for 15 minutes."
+Veg Fried Rice,"rice, carrot, capsicum, beans, soy sauce, pepper, salt, oil","1. Cook 1 cup rice and cool it.
+2. Finely chop carrot, capsicum, and beans.
+3. Heat 2 tbsp oil in a wok. Add all veggies.
+4. Stir fry for 4-5 minutes on high flame.
+5. Add cooked rice, 2 tsp soy sauce, salt and pepper.
+6. Mix and fry everything for 2-3 minutes."
+Onion Pakoda,"onion, gram flour, chili powder, coriander, salt, oil","1. Thinly slice 2 onions.
+2. Mix with 1 cup gram flour, 1 tsp chili powder, 1 tsp salt, chopped coriander.
+3. Add little water to form a thick batter.
+4. Heat oil in a pan.
+5. Drop spoonfuls into oil and deep fry till golden."
+Potato Curry,"potato, tomato, onion, mustard seeds, salt, turmeric, oil","1. Boil and peel 3 potatoes, cut into cubes.
+2. Heat 2 tbsp oil. Add mustard seeds.
+3. Add chopped onion and cook till translucent.
+4. Add chopped tomatoes, turmeric, and salt.
+5. Cook until tomatoes are mushy.
+6. Add potatoes. Cook for 5 minutes. Add water if needed."
+Tomato Rice,"rice, tomato, onion, mustard seeds, curry leaves, salt, turmeric, oil","1. Cook 1 cup rice and keep aside.
+2. Heat 2 tbsp oil. Add mustard seeds and curry leaves.
+3. Add chopped onions and sauté till golden.
+4. Add chopped tomatoes, salt and turmeric.
+5. Cook till tomatoes soften.
+6. Mix in the rice. Stir fry for 2 minutes."
+Masala Khichdi,"rice, moong dal, onion, ginger, turmeric, cumin, garam masala, oil","1. Wash 1/2 cup rice and 1/4 cup moong dal. Soak for 30 mins.
+2. Heat oil. Add cumin seeds, chopped onion, ginger.
+3. Sauté till golden. Add turmeric, garam masala.
+4. Add soaked rice and dal. Mix well.
+5. Add 3 cups water. Cook on low heat for 20 mins."
+Paneer Butter Masala,"paneer, tomato, onion, cream, butter, garam masala, kasuri methi","1. Blend tomatoes and onions to make smooth paste.
+2. Heat butter in pan. Add the paste and cook for 5 mins.
+3. Add garam masala, salt and 1/2 cup water.
+4. Add paneer cubes. Simmer for 5 mins.
+5. Add cream and crushed kasuri methi. Mix well."
+Chana Masala,"chickpeas, tomato, onion, ginger, garlic, garam masala, amchur, oil","1. Pressure cook 1 cup chickpeas with salt. Set aside.
+2. Heat oil. Add chopped onion, ginger, garlic. Sauté.
+3. Add tomato puree, garam masala, amchur powder.
+4. Cook for 5 mins. Add boiled chickpeas.
+5. Mix and cook for another 5 mins."
+Palak Paneer,"paneer, spinach, onion, garlic, ginger, garam masala, cream, butter, salt, oil","1. Blanch 500g spinach in boiling water for 2 minutes. Blend to smooth puree.
+2. Cut 200g paneer into cubes.
+3. Heat 2 tbsp oil and 1 tbsp butter in a pan. Add chopped onion, garlic, ginger.
+4. Sauté until golden brown.
+5. Add spinach puree, garam masala, and salt.
+6. Cook for 5 minutes on medium heat.
+7. Add paneer cubes and 2 tbsp cream.
+8. Simmer for 3 minutes. Garnish with cream."
+Dal Tadka,"toor dal, onion, tomato, garlic, ginger, turmeric, cumin, mustard seeds, red chili, garam masala, cilantro, oil","1. Wash and pressure cook 1 cup toor dal with turmeric and salt for 5 whistles.
+2. Heat 2 tbsp oil in a tadka pan. Add mustard seeds and cumin.
+3. Add chopped onion, garlic, and ginger. Fry until golden.
+4. Add chopped tomato and red chili. Cook until soft.
+5. Add garam masala and 1/2 cup water.
+6. Pour the tadka over cooked dal.
+7. Garnish with fresh cilantro."
+Jeera Rice,"rice, cumin seeds, bay leaf, cinnamon, cardamom, onion, salt, oil","1. Wash and cook 1 cup basmati rice with enough water.
+2. Heat 2 tbsp oil in a pan. Add cumin seeds, bay leaf, cinnamon, and cardamom.
+3. Add thinly sliced onion. Fry until golden brown.
+4. Add cooked rice and salt.
+5. Mix gently and cook for 2 minutes on low heat."
+Butter Chicken,"chicken, tomato, onion, cream, butter, ginger, garlic, garam masala, kasuri methi, salt, oil","1. Marinate 500g chicken with yogurt, ginger-garlic paste, and spices for 1 hour.
+2. Grill or pan-fry chicken until cooked.
+3. Heat butter in a pan. Add chopped onion, ginger, garlic.
+4. Add tomato puree and cook until oil separates.
+5. Add garam masala, salt, and 1/2 cup water.
+6. Add grilled chicken and simmer for 5 minutes.
+7. Add cream and crushed kasuri methi.
+8. Cook for 2 minutes. Garnish with cream."
+Vegetable Biryani,"rice, mixed vegetables, onion, tomato, mint, cilantro, biryani masala, saffron, yogurt, ghee","1. Soak 1 cup basmati rice for 30 minutes.
+2. Heat ghee in a pan. Add sliced onions and fry until golden.
+3. Add chopped tomatoes, mixed vegetables, and biryani masala.
+4. Cook for 5 minutes. Add yogurt and herbs.
+5. Layer half cooked rice with vegetable mixture.
+6. Top with saffron milk and fried onions.
+7. Dum cook covered for 20 minutes."
+Egg Curry,"eggs, onion, tomato, ginger, garlic, turmeric, red chili powder, garam masala, cream, oil","1. Hard boil 6 eggs and make slits on the surface.
+2. Heat 2 tbsp oil in a pan. Add chopped onion, ginger, garlic.
+3. Sauté until golden. Add tomato puree.
+4. Add turmeric, red chili powder, and garam masala.
+5. Cook until oil separates. Add 1/2 cup water.
+6. Add boiled eggs and simmer for 5 minutes.
+7. Add cream and cook for 2 minutes."
+Mushroom Masala,"mushrooms, onion, tomato, ginger, garlic, garam masala, cream, butter, salt, oil","1. Clean and slice 300g mushrooms.
+2. Heat 2 tbsp oil and 1 tbsp butter in a pan.
+3. Add chopped onion, ginger, garlic. Sauté until golden.
+4. Add sliced mushrooms and cook until golden.
+5. Add tomato puree, garam masala, and salt.
+6. Cook for 5 minutes. Add cream.
+7. Simmer for 3 minutes. Garnish with cream."
+Pav Bhaji,"potatoes, cauliflower, peas, onion, tomato, pav bhaji masala, butter, lemon, cilantro","1. Boil and mash 2 potatoes and 1/2 cup cauliflower.
+2. Heat butter in a pan. Add chopped onion and cook until golden.
+3. Add tomatoes and pav bhaji masala. Cook until soft.
+4. Add mashed vegetables and 1/2 cup water.
+5. Mash everything together and cook for 5 minutes.
+6. Serve with buttered pav and lemon wedges."
+Rajma,"kidney beans, onion, tomato, ginger, garlic, cumin, coriander powder, garam masala, oil","1. Soak 1 cup kidney beans overnight. Pressure cook until soft.
+2. Heat 2 tbsp oil in a pan. Add cumin seeds.
+3. Add chopped onion, ginger, garlic. Sauté until golden.
+4. Add tomato puree, coriander powder, and garam masala.
+5. Cook until oil separates. Add cooked rajma and 1 cup water.
+6. Simmer for 15 minutes. Garnish with cilantro."
+Gobi Manchurian,"cauliflower, ginger, garlic, soy sauce, vinegar, corn flour, green chilies, spring onions, oil","1. Cut cauliflower into florets. Coat with corn flour and deep fry until golden.
+2. Heat 2 tbsp oil in a pan. Add minced ginger, garlic, and green chilies.
+3. Add soy sauce, vinegar, and 2 tbsp water.
+4. Add fried cauliflower and toss well.
+5. Garnish with spring onions."
+Veg Momos,"flour, cabbage, carrot, onion, ginger, garlic, soy sauce, sesame oil, spring onions","1. Make dough with flour and water. Rest for 30 minutes.
+2. Finely chop cabbage, carrot, and onion.
+3. Mix with ginger, garlic, soy sauce, and sesame oil.
+4. Roll dough into circles. Fill with mixture and pleat edges.
+5. Steam for 15 minutes. Serve with dipping sauce."
+Spring Rolls,"flour, cabbage, carrot, bean sprouts, soy sauce, vinegar, oil","1. Make wrapper dough with flour and water.
+2. Finely chop vegetables and mix with soy sauce and vinegar.
+3. Roll wrappers thinly. Place filling and roll tightly.
+4. Deep fry until golden and crispy."
+Dosa,"rice, urad dal, fenugreek seeds, salt, oil","1. Soak 3 cups rice, 1 cup urad dal, and 1 tsp fenugreek separately for 4 hours.
+2. Grind rice and dal separately to smooth batters.
+3. Mix batters, add salt. Ferment overnight.
+4. Heat dosa pan. Pour batter in circular motion.
+5. Drizzle oil and cook until crispy."
+Idli,"rice, urad dal, fenugreek seeds, salt","1. Soak 3 cups rice, 1 cup urad dal, and 1 tsp fenugreek for 4 hours.
+2. Grind to smooth batters separately.
+3. Mix batters with salt. Fermit overnight.
+4. Pour into idli molds. Steam for 15 minutes."
+Vada Pav,"potatoes, bread rolls, green chutney, garlic, ginger, mustard seeds, turmeric, oil","1. Boil and mash 4 potatoes. Season with turmeric and salt.
+2. Make spiced potato balls.
+3. Coat in chickpea flour batter and deep fry.
+4. Slit bread rolls. Add vada, chutney, and fried green chilies."
+Pani Puri,"puris, potatoes, chickpeas, mint, tamarind, chaat masala, yogurt","1. Make small holes in puris.
+2. Fill with mashed potatoes and chickpeas.
+3. Add mint-tamarind water and yogurt.
+4. Serve immediately."
+Samosa,"flour, potatoes, peas, cumin, coriander powder, garam masala, oil","1. Make dough with flour, oil, and water.
+2. Boil and mash potatoes. Mix with peas and spices.
+3. Roll dough into triangles. Fill with mixture.
+4. Deep fry until golden brown."
+Aloo Gobi,"potatoes, cauliflower, onion, tomato, cumin, turmeric, coriander powder, oil","1. Cut potatoes and cauliflower into cubes.
+2. Heat oil in a pan. Add cumin seeds.
+3. Add chopped onion and cook until golden.
+4. Add tomatoes and spices. Cook until soft.
+5. Add vegetables and 1/2 cup water.
+6. Cover and cook for 10 minutes."
+Baingan Bharta,"eggplant, onion, tomato, ginger, garlic, garam masala, oil","1. Roast whole eggplant on flame until charred.
+2. Peel and mash the flesh.
+3. Heat oil in a pan. Add onion, ginger, garlic.
+4. Sauté until golden. Add tomato and cook until soft.
+5. Add mashed eggplant, garam masala, and salt.
+6. Cook for 5 minutes."
+Malai Kofta,"potatoes, paneer, cashews, cream, onion, tomato, garam masala, oil","1. Mash boiled potatoes. Mix with crumbled paneer.
+2. Make small balls and deep fry.
+3. Heat oil. Add onion and cook until golden.
+4. Add tomato puree and garam masala.
+5. Add cashew paste and cream.
+6. Add fried koftas and simmer for 5 minutes."
+Navratri Kuttu Ki Puri,"buckwheat flour, potatoes, rock salt, oil","1. Mix buckwheat flour with grated potatoes and rock salt.
+2. Add water to make stiff dough.
+3. Roll into small discs.
+4. Deep fry until crispy and golden."
+Sabudana Khichdi,"sago pearls, peanuts, potatoes, cumin, green chilies, lemon, oil","1. Soak sago pearls for 2 hours. Boil and cube potatoes.
+2. Heat oil. Add cumin and peanuts. Fry until golden.
+3. Add potatoes and green chilies. Cook for 2 minutes.
+4. Add sago pearls and 1/2 cup water.
+5. Cook until pearls become translucent.
+6. Add lemon juice and cilantro."
+Poha,"flattened rice, potatoes, onions, mustard seeds, turmeric, lemon, oil","1. Wash flattened rice and drain excess water.
+2. Heat oil. Add mustard seeds and curry leaves.
+3. Add chopped onions and potatoes. Cook until golden.
+4. Add turmeric and drained poha.
+5. Mix gently and cook for 2 minutes.
+6. Add lemon juice and cilantro."
+Upma,"semolina, vegetables, mustard seeds, curry leaves, green chilies, oil","1. Dry roast semolina for 5 minutes. Set aside.
+2. Heat oil. Add mustard seeds and curry leaves.
+3. Add chopped vegetables and green chilies.
+4. Add 2 cups water and bring to boil.
+5. Add roasted semolina slowly while stirring.
+6. Cook for 3 minutes."
+Methi Thepla,"flour, fenugreek leaves, yogurt, turmeric, red chili powder, oil","1. Finely chop fresh fenugreek leaves.
+2. Mix with flour, yogurt, and spices.
+3. Add water to make soft dough.
+4. Roll into thin circles.
+5. Cook on griddle with oil until golden."
+Khandvi,"besan, yogurt, green chilies, ginger, mustard seeds, oil","1. Mix besan with yogurt and 2 cups water.
+2. Cook on low heat, stirring continuously until thick.
+3. Cool and spread on greased tray.
+4. Cut into diamonds. Roll in tempered mustard seeds."
+Dhokla,"besan, yogurt, ginger, green chilies, eno fruit salt, oil","1. Mix besan with yogurt, ginger-green chili paste, and salt.
+2. Add water to make thick batter.
+3. Add eno fruit salt and mix quickly.
+4. Steam for 20 minutes.
+5. Temper with mustard seeds and curry leaves."
+Bhel Puri,"puffed rice, sev, potatoes, onions, chutneys, lemon","1. Mix puffed rice with chopped vegetables.
+2. Add sweet and green chutneys.
+3. Top with sev and lemon juice.
+4. Toss gently and serve immediately."
+Sev Puri,"puris, potatoes, onions, chutneys, sev, lemon","1. Make small holes in puris.
+2. Fill with mashed potatoes and onions.
+3. Add chutneys and sev.
+4. Sprinkle lemon juice and cilantro."
+Aloo Tikki,"potatoes, breadcrumbs, cumin, coriander powder, oil","1. Boil and mash potatoes. Mix with breadcrumbs and spices.
+2. Make flat patties.
+3. Shallow fry until golden brown on both sides."
+Papdi Chaat,"papdis, potatoes, yogurt, chutneys, sev","1. Arrange papdis on plate.
+2. Top with mashed potatoes and yogurt.
+3. Add chutneys and sev.
+4. Garnish with cilantro."
+Ragda Pattice,"potatoes, white peas, pav, garlic, ginger, oil","1. Boil white peas with ginger-garlic paste until soft.
+2. Mash potatoes and make patties. Fry until golden.
+3. Serve patties with ragda and pav."
+Misal Pav,"sprouted moth beans, potatoes, farsan, pav, lemon, oil","1. Cook sprouted moth beans with masala.
+2. Top with boiled potatoes and farsan.
+3. Serve with buttered pav and lemon."
+Vada,"urad dal, black gram, ginger, green chilies, oil","1. Soak urad dal for 4 hours. Grind to smooth batter.
+2. Add ginger-green chili paste and salt.
+3. Ferment overnight.
+4. Deep fry in vada shape until golden."
+Medu Vada,"urad dal, black gram, ginger, green chilies, oil","1. Soak urad dal for 4 hours. Grind to smooth batter.
+2. Add ginger-green chili paste and salt.
+3. Ferment overnight.
+4. Deep fry in donut shape until golden."
+Rava Idli,"semolina, yogurt, ginger, green chilies, oil","1. Mix semolina with yogurt and 1 cup water.
+2. Add ginger-green chili paste and salt.
+3. Pour into idli molds.
+4. Steam for 10 minutes."
+Kerala Appam,"rice, coconut, yeast, salt","1. Grind rice and coconut with water to smooth batter.
+2. Add yeast and salt. Ferment overnight.
+3. Pour in appachatti and cook until crispy edges form."
+Puttu,"rice flour, coconut, salt, banana leaf","1. Layer rice flour and grated coconut in puttu maker.
+2. Steam for 5 minutes.
+3. Serve with kadala curry."
+Karimeen Pollichathu,"fish, banana leaf, coconut, green chilies, oil","1. Clean and marinate fish with ground coconut spices.
+2. Wrap in banana leaf.
+3. Grill until cooked through."
+Kerala Fish Curry,"fish, coconut, turmeric, tamarind, curry leaves, oil","1. Grind coconut with green chilies and cumin.
+2. Heat oil. Add curry leaves and ground masala.
+3. Add fish pieces, turmeric, and tamarind water.
+4. Cook until fish is done."
+Appam,"rice, coconut, yeast, salt","1. Soak rice for 4 hours. Grind with coconut and water.
+2. Add yeast and salt. Ferment overnight.
+3. Cook in appachatti until crispy edges form."
+Kerala Parotta,"flour, oil, egg, water","1. Make stiff dough with flour, oil, and water.
+2. Knead well and rest for 1 hour.
+3. Roll thin and fold with oil.
+4. Roll again and cook on griddle."
+Kerala Beef Fry,"beef, coconut, black pepper, curry leaves, oil","1. Cut beef into small pieces.
+2. Grind coconut with black pepper.
+3. Heat oil. Add curry leaves and ground masala.
+4. Add beef and cook until tender and dry."
+Kerala Chicken Curry,"chicken, coconut, onions, curry leaves, oil","1. Grind coconut with onions and green chilies.
+2. Heat oil. Add curry leaves and ground masala.
+3. Add chicken pieces and cook until tender."
+Kerala Vegetable Stew,"vegetables, coconut milk, onions, curry leaves, oil","1. Heat oil. Add chopped onions and cook until golden.
+2. Add vegetables and 1/2 cup water. Cook until tender.
+3. Add coconut milk and curry leaves.
+4. Simmer for 5 minutes."
+Kerala Fish Moilee,"fish, coconut milk, curry leaves, turmeric, oil","1. Heat oil. Add curry leaves and sliced onions.
+2. Add fish pieces, turmeric, and 1/2 cup water.
+3. Cook for 5 minutes.
+4. Add coconut milk and simmer for 3 minutes."
+Kerala Prawn Curry,"prawns, coconut, onions, curry leaves, oil","1. Grind coconut with onions and green chilies.
+2. Heat oil. Add curry leaves and ground masala.
+3. Add prawns and cook until done."
+Kerala Egg Roast,"eggs, coconut, onions, curry leaves, oil","1. Hard boil eggs and make slits.
+2. Grind coconut with onions and spices.
+3. Heat oil. Add curry leaves and ground masala.
+4. Add eggs and cook until masala coats eggs."
+Hyderabadi Biryani,"basmati rice, goat meat, yogurt, onions, mint, cilantro, biryani masala, saffron, ghee","1. Marinate 500g goat meat with yogurt and biryani masala for 2 hours.
+2. Cook meat partially with onions, mint, and cilantro.
+3. Parboil 2 cups basmati rice with whole spices.
+4. Layer meat and rice in heavy-bottomed pan.
+5. Top with saffron milk and fried onions.
+6. Dum cook covered on low heat for 30 minutes."
+Mutton Rogan Josh,"mutton, yogurt, onions, ginger, garlic, Kashmiri chilies, garam masala, oil","1. Marinate 500g mutton with yogurt, ginger-garlic paste, and spices for 1 hour.
+2. Heat oil in pressure cooker. Add sliced onions and cook until golden.
+3. Add marinated mutton and brown lightly.
+4. Add 2 cups water and pressure cook for 20 minutes.
+5. Open cooker and cook on high heat until gravy thickens.
+6. Garnish with fresh cilantro."
+Chicken Korma,"chicken, yogurt, onions, cashews, cream, garam masala, saffron, oil","1. Blend 1/2 cup cashews with 1/4 cup water to smooth paste.
+2. Marinate 500g chicken with yogurt and garam masala for 30 minutes.
+3. Heat oil in pan. Add sliced onions and cook until golden brown.
+4. Add marinated chicken and cook until white.
+5. Add cashew paste, cream, and 1/2 cup water.
+6. Simmer for 15 minutes. Add saffron and cook for 2 minutes."
+Dal Makhani,"black lentils, kidney beans, butter, cream, ginger, garlic, garam masala, oil","1. Soak 1 cup black lentils and 1/4 cup kidney beans overnight.
+2. Pressure cook with salt and turmeric for 20 minutes.
+3. Heat butter in pan. Add ginger-garlic paste and cook.
+4. Add cooked dal and 1 cup water. Simmer for 30 minutes.
+5. Add cream, garam masala, and remaining butter.
+6. Cook for 10 minutes on low heat."
+Shahi Tukda,"bread, milk, sugar, saffron, pistachios, almonds, ghee","1. Deep fry bread slices until golden and crispy.
+2. Boil 2 cups milk with sugar and saffron until thick.
+3. Dip fried bread in sweet milk mixture.
+4. Arrange in serving dish.
+5. Pour remaining thick milk over bread.
+6. Garnish with chopped pistachios and almonds."
+Gulab Jamun,"khoya, flour, baking soda, milk, sugar, cardamom, ghee","1. Mix 200g khoya with 2 tbsp flour and baking soda.
+2. Knead into soft dough with little milk.
+3. Make small balls and deep fry until golden brown.
+4. Make sugar syrup with 1 cup sugar, 1/2 cup water, and cardamom.
+5. Soak fried balls in warm syrup for 30 minutes."
+Rasmalai,"milk, sugar, chenna, saffron, pistachios, cardamom","1. Boil 1 liter milk and add 2 tbsp lemon juice to curdle.
+2. Strain and wash chenna. Knead until smooth.
+3. Make small balls and boil in sugar water until cooked.
+4. Prepare thick milk by reducing 1 liter milk with sugar.
+5. Add saffron and cardamom to reduced milk.
+6. Soak cooked balls in sweetened milk. Garnish with pistachios."
+Kheer,"rice, milk, sugar, saffron, cardamom, pistachios, almonds","1. Wash 1/2 cup rice and cook in 1 liter milk until soft.
+2. Add sugar and cook until milk reduces to half.
+3. Add crushed cardamom and saffron.
+4. Continue cooking until kheer thickens.
+5. Garnish with chopped pistachios and almonds.
+6. Serve chilled or warm."
+Litti Chokha,"flour, sattu, ghee, eggplant, tomato, potato, mustard oil","1. Mix 2 cups flour with sattu, ghee, and salt to make dough.
+2. Make small balls and bake on tawa until golden.
+3. Roast eggplant, tomato, and potato on flame.
+4. Peel and mash vegetables. Add mustard oil and spices.
+5. Serve baked litti with chokha."
+Chole Bhature,"chickpeas, onion, tomato, ginger, garlic, chole masala, flour, yogurt, oil","1. Soak 1 cup chickpeas overnight. Pressure cook until soft.
+2. Heat oil. Add chopped onion, ginger, garlic and cook until golden.
+3. Add tomato puree, chole masala and cook until oil separates.
+4. Add cooked chickpeas and 1 cup water. Simmer for 20 minutes.
+5. For bhature: Mix flour with yogurt, oil and salt. Rest for 2 hours.
+6. Roll and deep fry until golden and puffed."
+Paniyaram,"rice flour, urad dal, yogurt, ginger, green chilies, oil","1. Soak 1 cup rice flour and 1/4 cup urad dal for 2 hours.
+2. Grind to smooth batter. Add yogurt, ginger, green chilies and salt.
+3. Ferment for 3 hours.
+4. Heat paniyaram pan. Pour batter in each cavity.
+5. Cook until golden brown, adding oil to sides.
+6. Serve hot with chutney."
+Kozhikode Biryani,"rice, beef, coconut, onions, mint, biryani masala, ghee","1. Marinate 500g beef with coconut paste and biryani masala for 1 hour.
+2. Cook beef with sliced onions until tender.
+3. Parboil 2 cups rice with whole spices.
+4. Layer beef and rice in handi.
+5. Add ghee and mint leaves on top.
+6. Dum cook covered for 25 minutes."
+Avial,"mixed vegetables, coconut, yogurt, curry leaves, coconut oil","1. Cut 2 cups mixed vegetables into uniform pieces.
+2. Cook vegetables with turmeric and salt until tender.
+3. Grind coconut with green chilies and cumin.
+4. Add ground coconut to cooked vegetables.
+5. Add yogurt and cook for 2 minutes.
+6. Temper with curry leaves and coconut oil."
+Kerala Puttu,"rice flour, coconut, salt, banana leaf","1. Steam layers of rice flour and grated coconut in puttu maker.
+2. Alternate layers starting and ending with flour.
+3. Steam for 5-7 minutes until firm.
+4. Serve hot with kadala curry or stew."
+Pesarattu,"green gram, rice, ginger, green chilies, oil","1. Soak 1 cup green gram and 1/4 cup rice for 4 hours.
+2. Grind with ginger, green chilies and salt to smooth batter.
+3. Ferment for 2 hours.
+4. Heat dosa pan. Pour batter in circular motion.
+5. Cook until crispy. Serve with upma podi."
+Kimchi Fried Rice,"rice, kimchi, bacon, eggs, green onions, sesame oil, soy sauce","1. Heat 2 tbsp sesame oil in a wok or large pan.
+2. Add diced bacon and cook until crispy.
+3. Add chopped kimchi and stir fry for 2 minutes.
+4. Add 3 cups cooked rice and break up any clumps.
+5. Add 2 tbsp soy sauce and mix well.
+6. Push rice to one side, crack 2 eggs in empty space.
+7. Scramble eggs then mix with rice.
+8. Garnish with chopped green onions and sesame seeds."
+Bulgogi,"beef, soy sauce, sugar, garlic, pear, sesame oil, green onions","1. Thinly slice 500g beef (ribeye or sirloin).
+2. Grate 1/2 pear and mix with soy sauce, sugar, minced garlic, sesame oil.
+3. Marinate beef in mixture for at least 30 minutes.
+4. Heat 1 tbsp oil in a pan. Add beef and cook until caramelized.
+5. Add sliced green onions and cook for 1 minute.
+6. Serve with steamed rice."
+Bibimbap,"rice, spinach, bean sprouts, carrots, mushrooms, beef, egg, gochujang","1. Cook 1 cup rice and set aside.
+2. Blanch spinach with sesame oil and salt.
+3. Stir fry bean sprouts with soy sauce.
+4. Julienne carrots and stir fry with sesame oil.
+5. Sauté mushrooms with soy sauce and sesame oil.
+6. Fry 200g beef with soy sauce and sesame oil.
+7. Fry one egg sunny side up.
+8. Arrange all ingredients over rice. Top with egg and gochujang."
+Pad Thai,"rice noodles, shrimp, tofu, eggs, bean sprouts, peanuts, tamarind paste","1. Soak rice noodles in warm water for 10 minutes.
+2. Mix tamarind paste with fish sauce, sugar, and 2 tbsp water.
+3. Heat oil in wok. Add scrambled eggs and set aside.
+4. Add shrimp and tofu. Cook until shrimp turns pink.
+5. Add noodles and sauce mixture. Stir fry for 2 minutes.
+6. Add bean sprouts and cooked eggs. Toss well.
+7. Garnish with crushed peanuts and lime wedges."
+Tom Yum Soup,"shrimp, lemongrass, galangal, kaffir lime leaves, mushrooms, fish sauce, chili","1. Bruise 2 stalks lemongrass and slice 1 inch galangal.
+2. Boil 4 cups water with lemongrass, galangal, and lime leaves for 5 minutes.
+3. Add 200g mushrooms and 300g shrimp. Cook for 3 minutes.
+4. Add fish sauce, lime juice, and chili paste to taste.
+5. Simmer for 2 minutes. Garnish with cilantro."
+Green Curry,"chicken, green curry paste, coconut milk, Thai eggplant, basil, fish sauce","1. Heat 1 cup thick coconut milk in pot until it starts to separate.
+2. Add 3 tbsp green curry paste and fry until fragrant.
+3. Add 500g chicken pieces and cook until sealed.
+4. Add remaining coconut milk and 1 cup water.
+5. Add Thai eggplant and simmer for 15 minutes.
+6. Add fish sauce, palm sugar, and Thai basil.
+7. Cook for 2 minutes. Serve with jasmine rice."
+Massaman Curry,"beef, massaman curry paste, coconut milk, potatoes, onions, peanuts, tamarind","1. Heat 1 cup coconut milk until it separates. Add 3 tbsp massaman paste.
+2. Add 500g beef chunks and cook until browned.
+3. Add remaining coconut milk, tamarind paste, and palm sugar.
+4. Add cubed potatoes and onions.
+5. Simmer covered for 1 hour until beef is tender.
+6. Add roasted peanuts in last 10 minutes.
+7. Season with fish sauce to taste."
+Chicken Satay,"chicken, coconut milk, turmeric, coriander, cumin, peanut sauce","1. Cut 500g chicken into thin strips.
+2. Mix with coconut milk, turmeric, coriander, and cumin. Marinate 1 hour.
+3. Thread chicken onto skewers.
+4. Grill until cooked through, basting with marinade.
+5. For peanut sauce: blend peanuts, coconut milk, and spices.
+6. Simmer sauce for 5 minutes. Serve with satay."
+Sushi Rolls,"sushi rice, nori, cucumber, avocado, crab sticks, soy sauce, wasabi","1. Cook sushi rice and season with rice vinegar, sugar, and salt.
+2. Place nori on bamboo mat. Spread rice evenly, leaving 1 inch border.
+3. Arrange cucumber, avocado, and crab sticks in line.
+4. Roll tightly using mat. Slice into 8 pieces with wet knife.
+5. Serve with soy sauce, wasabi, and pickled ginger."
+Ramen,"ramen noodles, pork broth, chashu pork, egg, green onions, nori, bamboo shoots","1. Boil 4 cups pork broth with soy sauce and mirin for 10 minutes.
+2. Cook ramen noodles according to package directions.
+3. Soft boil eggs for 6 minutes, cool and peel.
+4. Slice chashu pork and blanch bamboo shoots.
+5. Place noodles in bowl. Pour hot broth.
+6. Top with pork, egg, green onions, nori, and bamboo shoots."
+Mongolian Beef,"beef, soy sauce, brown sugar, garlic, ginger, green onions, sesame oil","1. Slice 500g beef against grain into thin strips.
+2. Mix soy sauce, brown sugar, garlic, and ginger.
+3. Marinate beef for 30 minutes.
+4. Heat 2 tbsp oil in wok. Add beef and cook until browned.
+5. Add sauce and cook until thickened.
+6. Garnish with chopped green onions and sesame seeds."
+Kung Pao Chicken,"chicken, peanuts, dried chilies, soy sauce, vinegar, sugar, Sichuan peppercorns","1. Cube 500g chicken and marinate with soy sauce for 15 minutes.
+2. Mix soy sauce, vinegar, sugar, and 2 tbsp water.
+3. Heat oil in wok. Add dried chilies and Sichuan peppercorns.
+4. Add chicken and stir fry until cooked.
+5. Add sauce mixture and peanuts.
+6. Cook until sauce coats chicken. Garnish with green onions."
+Beef Noodle Soup,"beef, noodles, star anise, cinnamon, soy sauce, bok choy, carrots","1. Brown 500g beef chunks. Add water, star anise, cinnamon, and soy sauce.
+2. Simmer for 2 hours until beef is tender.
+3. Cook noodles according to package directions.
+4. Blanch bok choy and julienne carrots.
+5. Slice beef and strain broth.
+6. Place noodles in bowl, add beef and vegetables. Pour hot broth."
+Mapo Tofu,"tofu, ground pork, doubanjiang, Sichuan peppercorns, garlic, ginger","1. Cube 400g tofu and blanch in salted water.
+2. Heat oil in wok. Add ground pork and cook until browned.
+3. Add doubanjiang, garlic, and ginger. Cook until fragrant.
+4. Add 1 cup water and tofu cubes.
+5. Simmer for 5 minutes. Thicken with cornstarch slurry.
+6. Sprinkle with ground Sichuan peppercorns."
+Spring Rolls,"rice paper, vermicelli, lettuce, herbs, shrimp, mint, cilantro","1. Soak rice paper in warm water until soft.
+2. Cook vermicelli according to package directions.
+3. Arrange lettuce, herbs, cooked shrimp, and vermicelli on paper.
+4. Fold sides and roll tightly from bottom to top.
+5. Serve with peanut dipping sauce."
+Hawaiian Pizza,"pizza dough, ham, pineapple, mozzarella, tomato sauce, oregano","1. Roll out pizza dough on floured surface.
+2. Spread tomato sauce evenly over dough.
+3. Sprinkle mozzarella cheese.
+4. Add diced ham and pineapple chunks.
+5. Bake at 220°C for 12-15 minutes until crust is golden.
+6. Sprinkle with oregano before serving."
+Caesar Salad,"romaine lettuce, croutons, parmesan, Caesar dressing, chicken","1. Wash and chop romaine lettuce into bite-sized pieces.
+2. Grill 300g chicken breast and slice.
+3. Toss lettuce with Caesar dressing.
+4. Top with grilled chicken, croutons, and shaved parmesan.
+5. Add cracked black pepper and serve immediately."
+Chicken Burger,"chicken patty, burger bun, lettuce, tomato, onion, mayonnaise, cheese","1. Season 200g ground chicken with salt and pepper.
+2. Form into patty and cook in pan until golden.
+3. Toast burger buns lightly.
+4. Spread mayonnaise on bottom bun.
+5. Layer lettuce, tomato, onion, chicken patty, and cheese.
+6. Top with upper bun and serve with fries."
+Pasta Alfredo,"fettuccine, butter, heavy cream, parmesan, garlic, black pepper","1. Cook fettuccine according to package directions.
+2. Heat 4 tbsp butter in pan. Add minced garlic.
+3. Add 1 cup heavy cream and simmer for 2 minutes.
+4. Gradually add 1 cup grated parmesan, stirring constantly.
+5. Add cooked pasta and toss to coat.
+6. Season with black pepper and serve immediately."
+Tacos,"corn tortillas, ground beef, lettuce, tomato, cheese, sour cream, salsa","1. Brown 300g ground beef with taco seasoning.
+2. Warm corn tortillas in dry pan.
+3. Fill tortillas with beef, shredded lettuce, and diced tomato.
+4. Top with cheese, sour cream, and salsa.
+5. Fold and serve with lime wedges."
+Nachos,"tortilla chips, cheese, jalapeños, ground beef, sour cream, guacamole","1. Arrange tortilla chips on baking sheet.
+2. Brown 200g ground beef with taco seasoning.
+3. Sprinkle cheese and jalapeños over chips.
+4. Bake at 180°C until cheese melts.
+5. Top with beef, sour cream, and guacamole.
+6. Serve immediately while hot."
+Fish and Chips,"white fish, potatoes, beer batter, salt, oil","1. Cut 500g white fish into strips. Season with salt.
+2. Cut potatoes into thick chips and soak in water.
+3. Make batter with flour, beer, and salt.
+4. Pat fish dry and coat in batter.
+5. Deep fry fish until golden and crispy.
+6. Fry chips until golden. Season with salt."
+Chicken Wings,"chicken wings, soy sauce, honey, garlic, ginger, sesame oil","1. Cut 500g chicken wings at joints.
+2. Mix soy sauce, honey, garlic, ginger, and sesame oil.
+3. Marinate wings for 1 hour.
+4. Bake at 200°C for 25 minutes, turning once.
+5. Brush with remaining marinade in last 5 minutes.
+6. Garnish with sesame seeds."
+Steak,"beef steak, salt, black pepper, olive oil, butter, garlic, rosemary","1. Season 300g steak with salt and pepper. Let come to room temperature.
+2. Heat olive oil in cast iron pan until smoking.
+3. Add steak and sear for 3-4 minutes per side.
+4. Add butter, garlic, and rosemary. Baste steak.
+5. Cook to desired doneness. Rest for 5 minutes.
+6. Slice against grain and serve."
+Fried Chicken,"chicken pieces, flour, buttermilk, paprika, garlic powder, oil","1. Cut 1 whole chicken into 8 pieces.
+2. Soak in buttermilk with salt and pepper for 2 hours.
+3. Mix flour with paprika, garlic powder, and salt.
+4. Dredge chicken in seasoned flour.
+5. Deep fry at 175°C until golden and cooked through.
+6. Drain on paper towels and serve hot."
+Mac and Cheese,"macaroni, cheddar cheese, butter, milk, flour, salt, pepper","1. Cook macaroni according to package directions.
+2. Make roux with 4 tbsp butter and 4 tbsp flour.
+3. Gradually add 2 cups milk, whisking constantly.
+4. Add 2 cups grated cheddar cheese.
+5. Stir until cheese melts and sauce thickens.
+6. Mix with pasta and season with salt and pepper."
+Pizza Margherita,"pizza dough, tomato sauce, mozzarella, basil, olive oil, salt","1. Roll out pizza dough on floured surface.
+2. Spread tomato sauce evenly, leaving border.
+3. Tear mozzarella and distribute over sauce.
+4. Bake at 250°C for 10-12 minutes until crust is golden.
+5. Tear fresh basil leaves over hot pizza.
+6. Drizzle with olive oil and sea salt."
+Lasagna,"lasagna sheets, ground beef, ricotta, mozzarella, tomato sauce, basil","1. Brown 300g ground beef with garlic and onion.
+2. Add tomato sauce and simmer for 20 minutes.
+3. Mix ricotta with egg and parmesan.
+4. Layer sauce, sheets, ricotta, and mozzarella in baking dish.
+5. Repeat layers, ending with cheese on top.
+6. Bake at 180°C for 45 minutes."
+Spaghetti Bolognese,"spaghetti, ground beef, tomatoes, onion, garlic, basil, parmesan","1. Cook spaghetti according to package directions.
+2. Brown 300g ground beef with chopped onion and garlic.
+3. Add canned tomatoes and simmer for 30 minutes.
+4. Season with salt, pepper, and fresh basil.
+5. Drain pasta and toss with sauce.
+6. Serve with grated parmesan cheese."
+Chicken Teriyaki,"chicken thighs, soy sauce, mirin, sugar, ginger, garlic, sesame seeds","1. Cut 500g chicken thighs into bite-sized pieces.
+2. Mix soy sauce, mirin, sugar, ginger, and garlic.
+3. Marinate chicken for 30 minutes.
+4. Cook chicken in pan until golden and caramelized.
+5. Add sauce and cook until thickened.
+6. Garnish with sesame seeds and sliced green onions."
+Beef Bulgogi,"beef, soy sauce, sugar, sesame oil, garlic, pear, green onions","1. Freeze 500g beef for 30 minutes then slice paper-thin.
+2. Grate 1/2 Asian pear and mix with soy sauce, sugar, sesame oil, garlic.
+3. Marinate beef for 1 hour.
+4. Cook in hot oiled pan until caramelized.
+5. Add green onions and cook for 1 minute.
+6. Serve with steamed rice."
+Japchae,"sweet potato starch noodles, beef, spinach, carrots, soy sauce, sesame oil","1. Soak sweet potato noodles in warm water for 10 minutes.
+2. Stir fry beef with soy sauce. Set aside.
+3. Blanch spinach and stir fry carrots with sesame oil.
+4. Cook noodles and drain.
+5. Mix noodles with vegetables, beef, and seasonings.
+6. Garnish with sesame seeds."
+Fried Rice,"rice, eggs, vegetables, soy sauce, sesame oil, green onions","1. Heat oil in wok. Scramble 2 eggs and set aside.
+2. Add diced vegetables and stir fry for 2 minutes.
+3. Add 3 cups cooked rice and break up clumps.
+4. Add soy sauce and sesame oil. Mix well.
+5. Add scrambled eggs and green onions.
+6. Stir fry for 1 minute and serve."
+Chicken Katsu,"chicken breast, panko breadcrumbs, flour, egg, tonkatsu sauce, oil","1. Pound 2 chicken breasts to 1/2 inch thickness.
+2. Season with salt and pepper.
+3. Dredge in flour, dip in egg, coat with panko.
+4. Deep fry at 170°C until golden and cooked through.
+5. Slice and serve with tonkatsu sauce."
+Beef Rendang,"beef, coconut milk, rendang paste, lemongrass, kaffir lime leaves","1. Cut 500g beef into chunks.
+2. Heat 2 cups coconut milk until it separates.
+3. Add rendang paste, lemongrass, and lime leaves.
+4. Add beef and simmer for 2 hours until tender.
+5. Continue cooking until sauce thickens and darkens.
+6. Serve with steamed rice."
+Nasi Goreng,"rice, shrimp, eggs, sweet soy sauce, kecap manis, chili paste","1. Heat oil in wok. Scramble 2 eggs and set aside.
+2. Add chopped shrimp and cook until pink.
+3. Add 3 cups cooked rice and break up clumps.
+4. Add sweet soy sauce and chili paste. Mix well.
+5. Add scrambled eggs and cook for 1 minute.
+6. Garnish with fried shallots and cucumber."
+Chicken Satay,"chicken, coconut milk, turmeric, coriander, cumin, peanut sauce","1. Cut 500g chicken into thin strips.
+2. Mix with coconut milk, turmeric, coriander, and cumin. Marinate 1 hour.
+3. Thread chicken onto skewers.
+4. Grill until cooked through, basting with marinade.
+5. For peanut sauce: blend peanuts, coconut milk, and spices.
+6. Simmer sauce for 5 minutes. Serve with satay."
+Laksa,"rice noodles, coconut milk, laksa paste, shrimp, tofu, bean sprouts","1. Cook rice noodles according to package directions.
+2. Heat coconut milk with laksa paste until fragrant.
+3. Add 300g shrimp and 200g tofu cubes. Cook until done.
+4. Add bean sprouts and cook for 1 minute.
+5. Divide noodles among bowls. Pour soup over.
+6. Garnish with hard-boiled egg and cilantro."
+Beef Shawarma,"beef, shawarma spices, pita bread, garlic sauce, pickles, tomatoes","1. Slice 500g beef against grain into thin strips.
+2. Marinate with shawarma spices for 1 hour.
+3. Cook in hot pan until browned and cooked through.
+4. Warm pita bread and slice open.
+5. Fill with beef, tomatoes, and pickles.
+6. Drizzle with garlic sauce and serve."
+Falafel,"chickpeas, parsley, cilantro, garlic, cumin, tahini sauce","1. Soak 1 cup chickpeas overnight. Drain and rinse.
+2. Blend chickpeas with parsley, cilantro, garlic, and cumin.
+3. Form into small balls and deep fry until golden.
+4. For tahini sauce: blend tahini, lemon juice, and garlic.
+5. Thin with water to desired consistency.
+6. Serve falafel in pita with tahini sauce."

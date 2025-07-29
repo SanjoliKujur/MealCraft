@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MealCraft</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Meal<span>Craft</span></h1>
+            <p>A Sous-Chef in Your Pocket – Let’s Cook with What You’ve Got. Let Me Suggest the Dishes! 👨‍🍳</p>
+        </header>
+
+        <div class="search-box">
+            <input type="text" id="input" placeholder="Enter ingredients (e.g., rice, potato, onion)">
+            <div class="buttons">
+                <button onclick="find()">Find Recipes</button>
+                <button onclick="reset()" class="reset">Reset</button>
+            </div>
+        </div>
+
+        <div id="results"></div>
+    </div>
+
+    <script>
+        async function find() {
+            const input = document.getElementById('input').value.trim();
+            if (!input) return;
+
+            const res = await fetch('/recommend', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ ingredients: input })
+            });
+            
+            const recipes = await res.json();
+            showRecipes(recipes);
+            window.recipes = recipes;
+        }
+
+        function showRecipes(recipes) {
+            const results = document.getElementById('results');
+            results.innerHTML = recipes.map((r, i) => `
+                <div class="recipe-wrapper">
+                    <div class="card">
+                        <div class="header">
+                            <h3>${r.name}</h3>
+                            <span class="score">${r.match_score}% match</span>
+                        </div>
+                        <div class="preview">
+                            <div class="have">You have: ${r.common_ingredients.join(', ')}</div>
+                            <div class="need">You need: ${r.missing_ingredients.slice(0,2).join(', ')}</div>
+                        </div>
+                        <button class="view-btn" onclick="showDetail(${i}, this)">View Recipe</button>
+                    </div>
+                    <div id="detail-${i}" class="detail-card hidden"></div>
+                </div>
+            `).join('');
+        }
+
+        function showDetail(index, button) {
+            const r = window.recipes[index];
+            const detailElement = document.getElementById(`detail-${index}`);
+            
+            detailElement.innerHTML = `
+                <div class="detail-content">
+                    <div class="detail-header">
+                        <h2>${r.name}</h2>
+                        <button onclick="closeDetail(${index})">×</button>
+                    </div>
+                    <div class="info">
+                        <div class="match-display">Match: ${r.match_score}%</div>
+                        <div class="ingredients-display">
+                            <div>You have: ${r.common_ingredients.join(', ')}</div>
+                            <div>You need: ${r.missing_ingredients.join(', ')}</div>
+                        </div>
+                    </div>
+                    <div class="steps">
+                        <h3>Steps:</h3>
+                        <ol>${r.instructions.split('\n').map(s => `<li>${s.trim()}</li>`).join('')}</ol>
+                    </div>
+                </div>
+            `;
+            
+            detailElement.classList.remove('hidden');
+            button.style.display = 'none';
+        }
+
+        function closeDetail(index) {
+            const detailElement = document.getElementById(`detail-${index}`);
+            detailElement.classList.add('hidden');
+            
+            // Show the View Recipe button again
+            const card = detailElement.closest('.recipe-wrapper').querySelector('.view-btn');
+            card.style.display = 'block';
+        }
+
+        function reset() {
+            document.getElementById('input').value = '';
+            document.getElementById('results').innerHTML = '';
+        }
+
+        document.getElementById('input').addEventListener('keypress', e => {
+            if (e.key === 'Enter') find();
+        });
+    </script>
+</body>
+</html>
