@@ -6,7 +6,6 @@
 - 115+ Recipes - Indian, Asian, Continental & more cuisines
 - Smart Scoring - Recipes ranked by how well they match your ingredients
 - Modern UI - Dark theme with smooth animations
-- Mobile Friendly - Works on all devices
 
 ## Tech Stack
 - Backend: Flask + TensorFlow
